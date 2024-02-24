@@ -36,6 +36,7 @@
 body {
   gap: 6rem;
   display: flex;
+  min-height: 100vh;
   align-items: center;
   padding-inline: 3rem;
   flex-direction: column;

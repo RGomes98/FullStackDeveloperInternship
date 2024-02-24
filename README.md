@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a part of the application process for the Full Stack Developer Internship position. The objective is to create a simple script to scrape Amazon product listings from the first page of search results for a given keyword. The project includes both backend and frontend components.
+This project is a part of the application process for the Full Stack Developer Internship position. The objective is to create a simple script to scrape Amazon product listings from the first page of search results for a given keyword. The project includes both server and client components.
 
 ## Installation
 
