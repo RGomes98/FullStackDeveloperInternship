@@ -10,16 +10,19 @@ This project is a part of the application process for the Full Stack Developer I
 
   ```bash
   git clone https://github.com/RGomes98/FullStackInternshipTest
-
   ```
 
 - Navigate to the server folder within the project directory:
 
+  ```bash
   cd FullStackInternshipTest/server
+  ```
 
 - Install the project dependencies:
 
+  ```bash
   npm install
+  ```
 
 ### Running the Application
 
@@ -29,7 +32,9 @@ This project is a part of the application process for the Full Stack Developer I
 
 - Start the server:
 
+  ```bash
   npm run server
+  ```
 
 - This will start the Express.js server on port 3000.
 
@@ -37,7 +42,9 @@ This project is a part of the application process for the Full Stack Developer I
 
 - Open a terminal and navigate to the project **client** directory.
 
+  ```bash
   cd FullStackInternshipTest/client
+  ```
 
 - Open the **client** folder in Visual Studio Code.
 
