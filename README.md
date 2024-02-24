@@ -9,13 +9,13 @@ This project is a part of the application process for the Full Stack Developer I
 - Clone the repository to your local machine:
 
   ```bash
-  git clone https://github.com/RGomes98/FullStackInternshipTest
+  git clone https://github.com/RGomes98/FullStackDeveloperInternship
   ```
 
 - Navigate to the server folder within the project directory:
 
   ```bash
-  cd FullStackInternshipTest/server
+  cd FullStackDeveloperInternship/server
   ```
 
 - Install the project dependencies:
@@ -43,7 +43,7 @@ This project is a part of the application process for the Full Stack Developer I
 - Open a terminal and navigate to the project **client** directory.
 
   ```bash
-  cd FullStackInternshipTest/client
+  cd FullStackDeveloperInternship/client
   ```
 
 - Open the **client** folder in Visual Studio Code.
